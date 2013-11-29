@@ -1,0 +1,28 @@
+{
+  "name": "strokeanimation",
+  "title": "Stroke Animation",
+  "description": "SVG Stroke Animation.",
+  "keywords": ["svg", "animation"],
+  "version": "1.0",
+  "author": {
+    "name": "Yu Ishihara",
+    "url": "https://github.com/is8r/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/is8r/jquery-strokeanimation"
+  },
+  "homepage": "https://github.com/is8r/jquery-strokeanimation",
+  "docs": "https://github.com/is8r/jquery-strokeanimation",
+  "bugs": "https://github.com/is8r/jquery-strokeanimation/issues",
+  "demo": "https://github.com/is8r/jquery-strokeanimation",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/is8r/jquery-strokeanimation/MIT-LICENSE.md"
+    }
+  ],
+  "dependencies": {
+    "jquery": ">=1.8"
+  }
+}

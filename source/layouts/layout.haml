@@ -1,0 +1,12 @@
+!!! 5
+%html{:lang => "jp"}
+  %head
+    %meta{:content => "text/html; charset=utf-8", "http-equiv" => "Content-Type"}
+    %meta{:content => "text/css", "http-equiv" => "Content-Style-Type"}
+    %meta{:content => "text/javascript", "http-equiv" => "Content-Script-Type"}
+    = stylesheet_link_tag "styles"
+    = javascript_include_tag "//code.jquery.com/jquery-1.9.1.js"
+    = javascript_include_tag "/assets/javascripts/scripts"
+
+  %body
+    = yield
