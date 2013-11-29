@@ -3,7 +3,7 @@
   "title": "Stroke Animation",
   "description": "SVG Stroke Animation.",
   "keywords": ["svg", "animation"],
-  "version": "1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Yu Ishihara",
     "url": "https://github.com/is8r/"
